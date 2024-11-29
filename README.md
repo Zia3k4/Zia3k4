@@ -4,6 +4,7 @@
  - 📚 I'm currently focusing more and more on becoming a full-stack professional
 - 🌱 I’m currently learning PHP,JS,TS,React
 - 😄 Pronouns: She/Her
+- 🎂:2002
 <div align="center">
   <a href="https://github.com/Zia3k4">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Zia3k4&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
