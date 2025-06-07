@@ -1,7 +1,7 @@
 ### Hi my name is Quezia O. Duran
 
 - 📚 I'm currently focusing more and more on becoming a full-stack professional
-- 🌱 I’m currently learning PHP,JS,TS,React
+- 🌱 I’m currently learning PHP,JS,TS,React,Vue
 - 😄 Pronouns: She/Her
 - 🎂:2002
 <div align="center">
